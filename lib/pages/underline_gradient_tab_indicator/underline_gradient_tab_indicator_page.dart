@@ -12,12 +12,14 @@ class UnderlineGradientTabIndicatorPage extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: const Text('Underline Gradient tab bar'),
-          bottom: const TabBar(
+          bottom: TabBar(
               indicator: UnderlineGradientTabIndicator(
-                  strokeWidth: 4,
-                  primaryColor: Colors.blue,
-                  secondaryColor: Colors.red),
-              tabs: [
+                colors: [
+                  Colors.blue.shade700,
+                  Colors.orangeAccent,
+                ],
+              ),
+              tabs: const [
                 Tab(text: 'Frutas'),
                 Tab(text: 'Verduras'),
                 Tab(text: 'Legumes'),
