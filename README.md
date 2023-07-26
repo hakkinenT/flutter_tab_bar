@@ -13,10 +13,10 @@ Tab Bar é um projeto simples, cujo objetivo é explorar um pouco mais dos diver
 
 
 ## Principais funcionalidades
-- Dot Indicator
-- Rounded Underline Indicator
-- Rounded Indicator
-- Rounded Underline Gradient Indicator
+- Tab Bar com Dot Indicator
+- Tab Bar com Rounded Underline Indicator
+- Tab Bar com Rounded Indicator
+- Tab Bar com Rounded Underline Gradient Indicator
 
 
 # Tecnologias utilizadas
