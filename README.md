@@ -7,9 +7,10 @@ Tab Bar é um projeto simples, cujo objetivo é explorar um pouco mais dos diver
 
 ## Imagens do App
 
-![Mobile 1](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen1.png) ![Mobile 2](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen2.png) 
+<img src="https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen1.png" title="Dot Indicator" width="270" height="480"/> <img src="https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen2.png" title="Rounded Underline Indicator" width="270" height="480"/> 
 
-![Mobile 3](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen3.png) ![Mobile 4](https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen4.png)
+<img src="https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen3.png" title="Rounded Indicator" width="270" height="480"/> <img src="https://github.com/hakkinenT/assets/blob/master/flutter-projects/flutter-tab-bar/screen4.png" title="Underline Gradient Indicator" width="270" height="480"/>
+
 
 ## Principais funcionalidades
 - Dot Indicator
